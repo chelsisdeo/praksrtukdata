@@ -1,7 +1,7 @@
 ## Repository praktikum algoritma dan struktur data
 
 <pre>
-Nama : Arvinanto Bahtiar
-NIM : 2211110014
-Kelas : S1SD03-A
+Nama : Chelsisdeo A.P Sanenek
+NIM : 2311110016
+Kelas : SD04-A
 </pre>
