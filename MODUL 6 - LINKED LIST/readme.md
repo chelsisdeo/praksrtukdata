@@ -1239,4 +1239,5 @@ Pembelajaran pada Modul 6 yang membahas tentang circular dan non-circular data s
 
 ## Referensi
 [1] kurniman Putra, A. List linier (linked list) dan variasinya_struktur data.
+
 [2] YULIANTI, M. DOUBLE LINKED LIST SIRCULAR.
