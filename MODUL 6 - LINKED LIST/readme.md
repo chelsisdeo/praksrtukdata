@@ -1,5 +1,6 @@
-# <h1 align="center">Laporan Praktikum Modul Tipe Data</h1>
-<p align="center">Arvinanto Bahtiar</p>
+# <h1 align="center">Laporan Praktikum Circular & Non Circular</h1>
+<p align="center">Chelsisdeo A.P Sanenek</p>
+<p align="center">2311110016</p>
 
 ## Dasar Teori
 
