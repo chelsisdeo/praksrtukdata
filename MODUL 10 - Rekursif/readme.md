@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# <h1 align="center">Laporan Praktikum Modul Tipe Data</h1>
+# <h1 align="center">Laporan Praktikum Modul Rekursif</h1>
 <p align="center">Chelsisdeo A.P Sanenek</p>
 
 ## Dasar Teori
