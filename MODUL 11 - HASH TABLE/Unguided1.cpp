@@ -10,10 +10,9 @@ struct Mahasiswa {
     double nilai;
 };
 
-// Hash table untuk menyimpan data mahasiswa
 unordered_map<string, Mahasiswa> dataMahasiswa;
 
-// Fungsi untuk menambahkan data mahasiswa
+
 void tambahData(string nim, double nilai) {
     Mahasiswa mhs;
     mhs.nim = nim;
@@ -21,12 +20,12 @@ void tambahData(string nim, double nilai) {
     dataMahasiswa[nim] = mhs;
 }
 
-// Fungsi untuk menghapus data mahasiswa berdasarkan NIM
+
 void hapusData(string nim) {
     dataMahasiswa.erase(nim);
 }
 
-// Fungsi untuk mencari data mahasiswa berdasarkan NIM
+
 Mahasiswa cariDataByNIM(string nim) {
     if (dataMahasiswa.find(nim) != dataMahasiswa.end()) {
         return dataMahasiswa[nim];
@@ -38,7 +37,7 @@ Mahasiswa cariDataByNIM(string nim) {
     }
 }
 
-// Fungsi untuk mencari data mahasiswa berdasarkan rentang nilai (80 - 90)
+
 void cariDataByNilai(double minNilai, double maxNilai) {
     cout << "Data mahasiswa dengan nilai antara " << minNilai << " dan " << maxNilai << ":" << endl;
     for (const auto& pair : dataMahasiswa) {
@@ -49,7 +48,7 @@ void cariDataByNilai(double minNilai, double maxNilai) {
 }
 
 int main() {
-    // Contoh penggunaan
+    
     tambahData("2311110016", 95.5);
     tambahData("2311110078", 85.5);
     tambahData("2311110001", 55.5);
